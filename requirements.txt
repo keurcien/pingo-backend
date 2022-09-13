@@ -1,0 +1,9 @@
+fastapi==0.81.0
+tortoise-orm[asyncpg]
+tortoise-orm==0.18.1
+google-cloud-storage==1.42.3
+uvicorn==0.15.0
+psycopg2==2.9.1
+psycopg2-binary==2.9.2
+python-dotenv==0.17.0
+firebase-admin==5.3.0
