@@ -37,7 +37,7 @@ async def delete_recipe(
     if recipe_.image:
         bucket.blob(recipe_.image).delete()  
     
-    recipe_.delete()
+    await recipe_.delete()
 
 @router.post("/")
 async def update_recipe(
