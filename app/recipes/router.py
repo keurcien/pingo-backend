@@ -45,14 +45,15 @@ async def update_recipe(
     current_user: User = Depends(get_current_user), 
     bucket: Any = Depends(get_storage_bucket)
 ):
-
+    print(recipe)
     if recipe.id:
-        recipe_ = await Recipe.get(id=recipe.id, user=current_user).update(
+        await Recipe.get(id=recipe.id, user=current_user).update(
             name=recipe.name, 
             ingredients=recipe.ingredients, 
             directions=recipe.directions,
             servings=recipe.servings
         )
+        recipe_ = await Recipe.get(id=recipe.id, user=current_user)
     else:
         recipe_ = await Recipe.create(**recipe.dict(exclude={"id", "image"}), user=current_user)
 
