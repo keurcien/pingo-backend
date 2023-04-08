@@ -1,0 +1,5218 @@
+[
+    {
+        "calories": 4.02,
+        "glucides": 0.0,
+        "lipides": 0.33,
+        "name": "abondance",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 0.467,
+        "glucides": 0.1,
+        "lipides": 0.0,
+        "name": "abricot",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 2.0,
+        "glucides": 0.3875,
+        "lipides": 0.0,
+        "name": "abricot sec",
+        "proteines": 0.0375,
+        "unit": "g"
+    },
+    {
+        "calories": 0.3,
+        "glucides": 0.07,
+        "lipides": 0.0,
+        "name": "agar-agar",
+        "proteines": 0.005,
+        "unit": "g"
+    },
+    {
+        "calories": 2.3,
+        "glucides": 0.0,
+        "lipides": 0.16,
+        "name": "agneau cotelette",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 1.95,
+        "glucides": 0.0,
+        "lipides": 0.12,
+        "name": "agneau epaule",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 1.44,
+        "glucides": 0.0,
+        "lipides": 0.057,
+        "name": "agneau foie",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 0.85,
+        "glucides": 0.0,
+        "lipides": 0.005,
+        "name": "aiglefin",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.9,
+        "glucides": 0.0,
+        "lipides": 0.1,
+        "name": "aiguillettes canard",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 1.02,
+        "glucides": 0.002,
+        "lipides": 0.01,
+        "name": "aiguillettes poulet",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 1.3,
+        "glucides": 0.25,
+        "lipides": 0.005,
+        "name": "ail",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 2.9,
+        "glucides": 0.0,
+        "lipides": 0.195,
+        "name": "ailes poulet",
+        "proteines": 0.27,
+        "unit": "g"
+    },
+    {
+        "calories": 0.25,
+        "glucides": 0.05,
+        "lipides": 0.0,
+        "name": "airelles",
+        "proteines": 0.002,
+        "unit": "g"
+    },
+    {
+        "calories": 6.39,
+        "glucides": 0.17,
+        "lipides": 0.55,
+        "name": "amandes en poudre",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "americano",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.5,
+        "glucides": 0.12,
+        "lipides": 0.0,
+        "name": "ananas",
+        "proteines": 0.005,
+        "unit": "g"
+    },
+    {
+        "calories": 0.8,
+        "glucides": 0.2,
+        "lipides": 0.0,
+        "name": "ananas au sirop",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.003,
+        "lipides": 0.08,
+        "name": "anchois",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 3.02,
+        "glucides": 0.0,
+        "lipides": 0.24,
+        "name": "anchois a lhuile",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 2.31,
+        "glucides": 0.004,
+        "lipides": 0.17,
+        "name": "andouillette",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 2.3,
+        "glucides": 0.0,
+        "lipides": 0.15,
+        "name": "anguille",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 2.39,
+        "glucides": 0.01,
+        "lipides": 0.19,
+        "name": "andouille vire",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 0.43,
+        "glucides": 0.05,
+        "lipides": 0.01,
+        "name": "aneth",
+        "proteines": 0.035,
+        "unit": "g"
+    },
+    {
+        "calories": 3.2,
+        "glucides": 0.4,
+        "lipides": 0.0,
+        "name": "anisette",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.05,
+        "glucides": 0.0,
+        "lipides": 0.14,
+        "name": "araignee boeuf",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "armagnac",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.56,
+        "glucides": 0.11,
+        "lipides": 0.0,
+        "name": "artichaut",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 0.24,
+        "glucides": 0.04,
+        "lipides": 0.005,
+        "name": "artichaut coeur",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.28,
+        "glucides": 0.04,
+        "lipides": 0.003,
+        "name": "asperge",
+        "proteines": 0.014,
+        "unit": "g"
+    },
+    {
+        "calories": 0.29,
+        "glucides": 0.06,
+        "lipides": 0.002,
+        "name": "aubergine",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 3.15,
+        "glucides": 0.0,
+        "lipides": 0.25,
+        "name": "babybel",
+        "proteines": 0.225,
+        "unit": "g"
+    },
+    {
+        "calories": 5.41,
+        "glucides": 0.013999999999999999,
+        "lipides": 0.42,
+        "name": "bacon",
+        "proteines": 0.37,
+        "unit": "g"
+    },
+    {
+        "calories": 3.7,
+        "glucides": 0.677,
+        "lipides": 0.08199999999999999,
+        "name": "baie goji sechee",
+        "proteines": 0.11699999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 0.35,
+        "glucides": 0.06,
+        "lipides": 0.0,
+        "name": "bambou",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 0.9066666666666666,
+        "glucides": 0.21333333333333335,
+        "lipides": 0.004666666666666666,
+        "name": "banane",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 1.26,
+        "glucides": 0.3,
+        "lipides": 0.0,
+        "name": "banane plantain",
+        "proteines": 0.015,
+        "unit": "g"
+    },
+    {
+        "calories": 2.85,
+        "glucides": 0.59,
+        "lipides": 0.02,
+        "name": "baguette",
+        "proteines": 0.085,
+        "unit": "g"
+    },
+    {
+        "calories": 1.11,
+        "glucides": 0.0,
+        "lipides": 0.039,
+        "name": "bar poisson",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 0.22,
+        "glucides": 0.027000000000000003,
+        "lipides": 0.006,
+        "name": "basilic",
+        "proteines": 0.032,
+        "unit": "g"
+    },
+    {
+        "calories": 0.15,
+        "glucides": 0.015,
+        "lipides": 0.01,
+        "name": "batavia",
+        "proteines": 0.013999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 1.2,
+        "glucides": 0.11,
+        "lipides": 0.045,
+        "name": "batonnets crabe",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 1.38,
+        "glucides": 0.0,
+        "lipides": 0.06,
+        "name": "bavette boeuf",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 4.01,
+        "glucides": 0.0,
+        "lipides": 0.33,
+        "name": "beaufort",
+        "proteines": 0.27,
+        "unit": "g"
+    },
+    {
+        "calories": 3.95,
+        "glucides": 0.45,
+        "lipides": 0.21,
+        "name": "beignet",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 4.1,
+        "glucides": 0.45,
+        "lipides": 0.23,
+        "name": "beignet confiture",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 1.15,
+        "glucides": 0.0,
+        "lipides": 0.015,
+        "name": "becasse",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 0.43,
+        "glucides": 0.07,
+        "lipides": 0.0,
+        "name": "betterave",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 7.6,
+        "glucides": 0.0,
+        "lipides": 0.84,
+        "name": "beurre",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 5.62,
+        "glucides": 0.01,
+        "lipides": 0.61,
+        "name": "beurre allege",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 3.94,
+        "glucides": 0.061,
+        "lipides": 0.41,
+        "name": "beurre leger",
+        "proteines": 0.002,
+        "unit": "g"
+    },
+    {
+        "calories": 5.88,
+        "glucides": 0.2,
+        "lipides": 0.5,
+        "name": "beurre cacahuetes",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 7.52,
+        "glucides": 0.005,
+        "lipides": 0.83,
+        "name": "beurre sale",
+        "proteines": 0.007,
+        "unit": "g"
+    },
+    {
+        "calories": 1.16,
+        "glucides": 0.0,
+        "lipides": 0.04,
+        "name": "biche",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 0.35,
+        "glucides": 0.04,
+        "lipides": 0.0,
+        "name": "biere",
+        "proteines": 0.005,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.6,
+        "glucides": 0.05,
+        "lipides": 0.0,
+        "name": "biere blonde",
+        "proteines": 0.005,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.35,
+        "glucides": 0.05,
+        "lipides": 0.0,
+        "name": "biere brune",
+        "proteines": 0.003,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.34,
+        "glucides": 0.03,
+        "lipides": 0.0,
+        "name": "biere light",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.26,
+        "glucides": 0.05,
+        "lipides": 0.0,
+        "name": "biere sans alcool",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.57,
+        "glucides": 0.0,
+        "lipides": 0.05,
+        "name": "bifteck boeuf",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.01,
+        "lipides": 0.05,
+        "name": "bifteck hache 5",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 1.99,
+        "glucides": 0.0,
+        "lipides": 0.15,
+        "name": "bifteck hache 15",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 1.34,
+        "glucides": 0.05,
+        "lipides": 0.01,
+        "name": "bigorneau",
+        "proteines": 0.26,
+        "unit": "g"
+    },
+    {
+        "calories": 3.2,
+        "glucides": 0.51,
+        "lipides": 0.05,
+        "name": "biscottes",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 0.86,
+        "glucides": 0.1,
+        "lipides": 0.025,
+        "name": "bisque homard",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 1.08,
+        "glucides": 0.005,
+        "lipides": 0.02,
+        "name": "blanc dinde",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 1.0,
+        "glucides": 0.013000000000000001,
+        "lipides": 0.015,
+        "name": "blanc poulet",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 0.44,
+        "glucides": 0.003,
+        "lipides": 0.001,
+        "name": "blanc oeuf",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 3.81,
+        "glucides": 0.4,
+        "lipides": 0.09,
+        "name": "ble germe",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 0.21,
+        "glucides": 0.02,
+        "lipides": 0.0,
+        "name": "blettes cuites",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 3.48,
+        "glucides": 0.03,
+        "lipides": 0.29,
+        "name": "bleu bresse",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 2.76,
+        "glucides": 0.33,
+        "lipides": 0.132,
+        "name": "blinis",
+        "proteines": 0.057,
+        "unit": "g"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.2,
+        "name": "boeuf",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 3.4,
+        "glucides": 0.14,
+        "lipides": 0.2,
+        "name": "boeuf bourguignon",
+        "proteines": 0.26,
+        "unit": "g"
+    },
+    {
+        "calories": 1.16,
+        "glucides": 0.01,
+        "lipides": 0.08,
+        "name": "boeuf aux carottes",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 2.4,
+        "glucides": 0.0,
+        "lipides": 0.16,
+        "name": "bonbel",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 1.86,
+        "glucides": 0.05,
+        "lipides": 0.14,
+        "name": "boudin blanc",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 2.61,
+        "glucides": 0.018,
+        "lipides": 0.216,
+        "name": "boudin noir",
+        "proteines": 0.148,
+        "unit": "g"
+    },
+    {
+        "calories": 3.96,
+        "glucides": 0.85,
+        "lipides": 0.03,
+        "name": "boudoir",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 1.36,
+        "glucides": 0.115,
+        "lipides": 0.048,
+        "name": "bouillon cube boeuf",
+        "proteines": 0.117,
+        "unit": "g"
+    },
+    {
+        "calories": 1.78,
+        "glucides": 0.07,
+        "lipides": 0.1,
+        "name": "boulettes viande",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 3.42,
+        "glucides": 0.76,
+        "lipides": 0.01,
+        "name": "boulghour",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 4.65,
+        "glucides": 0.59,
+        "lipides": 0.24,
+        "name": "bounty chocolat au lait",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 4.71,
+        "glucides": 0.54,
+        "lipides": 0.27,
+        "name": "bounty noir",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 0.7,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "bourbon",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 4.05,
+        "glucides": 0.02,
+        "lipides": 0.41,
+        "name": "boursin",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 2.35,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "brandy",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.41,
+        "glucides": 0.005,
+        "lipides": 0.04,
+        "name": "bresaola",
+        "proteines": 0.3,
+        "unit": "g"
+    },
+    {
+        "calories": 3.8,
+        "glucides": 0.8,
+        "lipides": 0.03,
+        "name": "bretzel",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 3.34,
+        "glucides": 0.004,
+        "lipides": 0.28,
+        "name": "brie",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 3.75,
+        "glucides": 0.47,
+        "lipides": 0.16,
+        "name": "brioche",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 0.76,
+        "glucides": 0.0,
+        "lipides": 0.005,
+        "name": "brochet",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 0.29,
+        "glucides": 0.03,
+        "lipides": 0.01,
+        "name": "brocoli",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 0.6,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "brugnon",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 2.75,
+        "glucides": 0.28,
+        "lipides": 0.16,
+        "name": "buche glacee",
+        "proteines": 0.03,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.06,
+        "glucides": 0.33,
+        "lipides": 0.06,
+        "name": "burritos",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 0.85,
+        "glucides": 0.0,
+        "lipides": 0.01,
+        "name": "cabillaud",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 5.77,
+        "glucides": 0.086,
+        "lipides": 0.49,
+        "name": "cacahuetes",
+        "proteines": 0.253,
+        "unit": "g"
+    },
+    {
+        "calories": 3.25,
+        "glucides": 0.43,
+        "lipides": 0.21,
+        "name": "cacao en poudre",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.39,
+        "glucides": 0.16,
+        "lipides": 0.07,
+        "name": "cafe liegeois",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 0.09,
+        "glucides": 0.017,
+        "lipides": 0.002,
+        "name": "cafe noir",
+        "proteines": 0.001,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.15,
+        "glucides": 0.0,
+        "lipides": 0.02,
+        "name": "caille",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 3.85,
+        "glucides": 0.65,
+        "lipides": 0.15,
+        "name": "cake industriel",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 0.89,
+        "glucides": 0.03,
+        "lipides": 0.015,
+        "name": "calamar",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 4.15,
+        "glucides": 0.75,
+        "lipides": 0.11,
+        "name": "calisson aix",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "calvados",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.97,
+        "glucides": 0.003,
+        "lipides": 0.24,
+        "name": "camembert",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.05,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "campari americano",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.88,
+        "glucides": 0.0,
+        "lipides": 0.1,
+        "name": "canard laque",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 3.37,
+        "glucides": 0.0,
+        "lipides": 0.28,
+        "name": "canard roti",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 1.2,
+        "glucides": 0.01,
+        "lipides": 0.07,
+        "name": "cancoillotte",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 2.06,
+        "glucides": 0.098,
+        "lipides": 0.135,
+        "name": "cannelloni",
+        "proteines": 0.11199999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 3.86,
+        "glucides": 0.06,
+        "lipides": 0.3,
+        "name": "cantal",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 0.74,
+        "glucides": 0.06,
+        "lipides": 0.04,
+        "name": "cappuccino",
+        "proteines": 0.04,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.6,
+        "glucides": 0.9,
+        "lipides": 0.0,
+        "name": "caramel",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 0.54,
+        "glucides": 0.08,
+        "lipides": 0.01,
+        "name": "capres",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 1.27,
+        "glucides": 0.0,
+        "lipides": 0.06,
+        "name": "carpe",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 2.78,
+        "glucides": 0.024,
+        "lipides": 0.23,
+        "name": "carpaccio boeuf",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 0.64,
+        "glucides": 0.0,
+        "lipides": 0.01,
+        "name": "carrelet",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 0.3,
+        "glucides": 0.064,
+        "lipides": 0.003,
+        "name": "carotte",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.54,
+        "glucides": 0.122,
+        "lipides": 0.001,
+        "name": "cassis",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 2.6,
+        "glucides": 0.11,
+        "lipides": 0.172,
+        "name": "cassoulet",
+        "proteines": 0.152,
+        "unit": "g"
+    },
+    {
+        "calories": 2.65,
+        "glucides": 0.04,
+        "lipides": 0.18,
+        "name": "caviar",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 2.19,
+        "glucides": 0.07,
+        "lipides": 0.2,
+        "name": "caviar aubergines",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 0.18,
+        "glucides": 0.024,
+        "lipides": 0.003,
+        "name": "celerirave",
+        "proteines": 0.015,
+        "unit": "g"
+    },
+    {
+        "calories": 0.16,
+        "glucides": 0.01,
+        "lipides": 0.002,
+        "name": "celeri branche",
+        "proteines": 0.012,
+        "unit": "g"
+    },
+    {
+        "calories": 0.31,
+        "glucides": 0.04,
+        "lipides": 0.04,
+        "name": "cepes champignon",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 0.68,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "cerises",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 1.16,
+        "glucides": 0.0,
+        "lipides": 0.04,
+        "name": "cerf viande",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 3.5,
+        "glucides": 0.03,
+        "lipides": 0.3,
+        "name": "cervelas",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 3.3,
+        "glucides": 0.01,
+        "lipides": 0.35,
+        "name": "chair a saucisse",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 1.65,
+        "glucides": 0.028999999999999998,
+        "lipides": 0.0,
+        "name": "champagne doux",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.85,
+        "glucides": 0.012,
+        "lipides": 0.0,
+        "name": "champagne brut",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.15,
+        "glucides": 0.006,
+        "lipides": 0.005,
+        "name": "champignons",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 0.22,
+        "glucides": 0.033,
+        "lipides": 0.003,
+        "name": "champignons paris",
+        "proteines": 0.031,
+        "unit": "g"
+    },
+    {
+        "calories": 0.62,
+        "glucides": 0.13,
+        "lipides": 0.004,
+        "name": "champignons noirs",
+        "proteines": 0.017,
+        "unit": "g"
+    },
+    {
+        "calories": 0.28,
+        "glucides": 0.04,
+        "lipides": 0.0,
+        "name": "chanterelles",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 2.38,
+        "glucides": 0.12,
+        "lipides": 0.2,
+        "name": "chantilly legere",
+        "proteines": 0.025,
+        "unit": "g"
+    },
+    {
+        "calories": 3.95,
+        "glucides": 0.72,
+        "lipides": 0.05,
+        "name": "chapelure",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 2.76,
+        "glucides": 0.03,
+        "lipides": 0.22,
+        "name": "chaource",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 3.1,
+        "glucides": 0.0,
+        "lipides": 0.25,
+        "name": "chaussee aux moines",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 3.45,
+        "glucides": 0.37,
+        "lipides": 0.2,
+        "name": "chausson aux pommes",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 2.36,
+        "glucides": 0.47,
+        "lipides": 0.022000000000000002,
+        "name": "chataignes grillees",
+        "proteines": 0.037000000000000005,
+        "unit": "g"
+    },
+    {
+        "calories": 1.33,
+        "glucides": 0.26,
+        "lipides": 0.01,
+        "name": "chataignes",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 4.02,
+        "glucides": 0.01,
+        "lipides": 0.33,
+        "name": "cheddar",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 3.21,
+        "glucides": 0.26,
+        "lipides": 0.22,
+        "name": "cheesecake",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 1.64,
+        "glucides": 0.03,
+        "lipides": 0.12,
+        "name": "chevre frais",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 4.7,
+        "glucides": 0.0,
+        "lipides": 0.4,
+        "name": "chevre sec",
+        "proteines": 0.275,
+        "unit": "g"
+    },
+    {
+        "calories": 1.74,
+        "glucides": 0.0,
+        "lipides": 0.05,
+        "name": "chevreuil roti",
+        "proteines": 0.33,
+        "unit": "g"
+    },
+    {
+        "calories": 1.01,
+        "glucides": 0.09,
+        "lipides": 0.033,
+        "name": "chili con carne",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 1.92,
+        "glucides": 0.0,
+        "lipides": 0.18,
+        "name": "chipolata",
+        "proteines": 0.075,
+        "unit": "g"
+    },
+    {
+        "calories": 5.36,
+        "glucides": 0.53,
+        "lipides": 0.35,
+        "name": "chips",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 5.2,
+        "glucides": 0.33,
+        "lipides": 0.52,
+        "name": "chocolat",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 5.35,
+        "glucides": 0.59,
+        "lipides": 0.3,
+        "name": "chocolat au lait",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 5.33,
+        "glucides": 0.62,
+        "lipides": 0.29,
+        "name": "chocolat blanc",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 0.76,
+        "glucides": 0.11599999999999999,
+        "lipides": 0.017,
+        "name": "chocolat chaud",
+        "proteines": 0.034,
+        "unit": "ml"
+    },
+    {
+        "calories": 4.14,
+        "glucides": 0.474,
+        "lipides": 0.21100000000000002,
+        "name": "chocolatine",
+        "proteines": 0.069,
+        "unit": "g"
+    },
+    {
+        "calories": 5.8,
+        "glucides": 0.48700000000000004,
+        "lipides": 0.391,
+        "name": "chocolat lait et noisettes",
+        "proteines": 0.085,
+        "unit": "g"
+    },
+    {
+        "calories": 2.02,
+        "glucides": 0.28,
+        "lipides": 0.09,
+        "name": "chocolat liegeois",
+        "proteines": 0.025,
+        "unit": "g"
+    },
+    {
+        "calories": 5.3,
+        "glucides": 0.59,
+        "lipides": 0.3,
+        "name": "chocolat noir",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 3.8,
+        "glucides": 0.8290000000000001,
+        "lipides": 0.026000000000000002,
+        "name": "chocolat poudre",
+        "proteines": 0.035,
+        "unit": "g"
+    },
+    {
+        "calories": 4.55,
+        "glucides": 0.02,
+        "lipides": 0.38,
+        "name": "chorizo",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 2.24,
+        "glucides": 0.349,
+        "lipides": 0.073,
+        "name": "chou a la creme",
+        "proteines": 0.043,
+        "unit": "g"
+    },
+    {
+        "calories": 0.12,
+        "glucides": 0.02,
+        "lipides": 0.0,
+        "name": "chou chinois",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.54,
+        "glucides": 0.07,
+        "lipides": 0.005,
+        "name": "chou bruxelles",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 0.18,
+        "glucides": 0.016,
+        "lipides": 0.005,
+        "name": "chou",
+        "proteines": 0.019,
+        "unit": "g"
+    },
+    {
+        "calories": 0.28,
+        "glucides": 0.023,
+        "lipides": 0.003,
+        "name": "choufleur",
+        "proteines": 0.025,
+        "unit": "g"
+    },
+    {
+        "calories": 0.31,
+        "glucides": 0.073,
+        "lipides": 0.002,
+        "name": "chou rouge",
+        "proteines": 0.013999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 0.25,
+        "glucides": 0.06,
+        "lipides": 0.001,
+        "name": "chou vert",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 0.3,
+        "glucides": 0.044000000000000004,
+        "lipides": 0.006999999999999999,
+        "name": "ciboulette",
+        "proteines": 0.033,
+        "unit": "g"
+    },
+    {
+        "calories": 0.4,
+        "glucides": 0.06,
+        "lipides": 0.0,
+        "name": "cidre",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.43,
+        "glucides": 0.024,
+        "lipides": 0.0,
+        "name": "cidre brut",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.42,
+        "glucides": 0.09,
+        "lipides": 0.004,
+        "name": "citron",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.3,
+        "glucides": 0.08,
+        "lipides": 0.002,
+        "name": "citron vert",
+        "proteines": 0.006999999999999999,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.26,
+        "glucides": 0.065,
+        "lipides": 0.0,
+        "name": "citrouille",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 3.64,
+        "glucides": 0.64,
+        "lipides": 0.08,
+        "name": "cigarette russe",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 1.39,
+        "glucides": 0.0,
+        "lipides": 0.07,
+        "name": "civet lapin",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 1.53,
+        "glucides": 0.01,
+        "lipides": 0.07,
+        "name": "civet sanglier",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 0.77,
+        "glucides": 0.015,
+        "lipides": 0.01,
+        "name": "clams",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 0.45,
+        "glucides": 0.1,
+        "lipides": 0.002,
+        "name": "clementine",
+        "proteines": 0.006999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "cognac",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.28,
+        "glucides": 0.06,
+        "lipides": 0.0,
+        "name": "coing",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.21,
+        "glucides": 0.25,
+        "lipides": 0.0,
+        "name": "cointreau",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.78,
+        "glucides": 0.0,
+        "lipides": 0.012,
+        "name": "colin",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 4.14,
+        "glucides": 0.0,
+        "lipides": 0.34,
+        "name": "comte",
+        "proteines": 0.27,
+        "unit": "g"
+    },
+    {
+        "calories": 0.1,
+        "glucides": 0.015,
+        "lipides": 0.002,
+        "name": "concombre",
+        "proteines": 0.006,
+        "unit": "g"
+    },
+    {
+        "calories": 2.45,
+        "glucides": 0.6,
+        "lipides": 0.0,
+        "name": "confiture",
+        "proteines": 0.005,
+        "unit": "g"
+    },
+    {
+        "calories": 1.07,
+        "glucides": 0.0,
+        "lipides": 0.03,
+        "name": "congre",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 2.32,
+        "glucides": 0.0,
+        "lipides": 0.15,
+        "name": "coppa",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 2.14,
+        "glucides": 0.16,
+        "lipides": 0.1,
+        "name": "cordon bleu",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 0.63,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "coquille saint jacques",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 3.57,
+        "glucides": 0.84,
+        "lipides": 0.01,
+        "name": "corn flakes",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 2.21,
+        "glucides": 0.005,
+        "lipides": 0.15,
+        "name": "corned beef",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 0.11,
+        "glucides": 0.02,
+        "lipides": 0.0,
+        "name": "cornichon",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.153,
+        "name": "cote porc ",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 0.92,
+        "glucides": 0.022000000000000002,
+        "lipides": 0.039,
+        "name": "cottage cheese",
+        "proteines": 0.121,
+        "unit": "g"
+    },
+    {
+        "calories": 0.25,
+        "glucides": 0.045,
+        "lipides": 0.001,
+        "name": "coulis tomates",
+        "proteines": 0.015,
+        "unit": "g"
+    },
+    {
+        "calories": 2.92,
+        "glucides": 0.0,
+        "lipides": 0.24,
+        "name": "coulommiers",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 0.3,
+        "glucides": 0.06,
+        "lipides": 0.0,
+        "name": "courge",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.2,
+        "glucides": 0.025,
+        "lipides": 0.003,
+        "name": "courgette",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 1.12,
+        "glucides": 0.23,
+        "lipides": 0.0,
+        "name": "couscous",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 0.89,
+        "glucides": 0.0,
+        "lipides": 0.05,
+        "name": "crabe",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 0.85,
+        "glucides": 0.01,
+        "lipides": 0.01,
+        "name": "crabe en boite",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 3.8,
+        "glucides": 0.67,
+        "lipides": 0.027000000000000003,
+        "name": "cracotte",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 0.46,
+        "glucides": 0.12,
+        "lipides": 0.0,
+        "name": "cranberry",
+        "proteines": 0.004,
+        "unit": "g"
+    },
+    {
+        "calories": 2.85,
+        "glucides": 0.096,
+        "lipides": 0.264,
+        "name": "creme chantilly",
+        "proteines": 0.023,
+        "unit": "g"
+    },
+    {
+        "calories": 1.1,
+        "glucides": 0.18,
+        "lipides": 0.03,
+        "name": "creme anglaise",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 3.0,
+        "glucides": 0.16,
+        "lipides": 0.24,
+        "name": "creme brulee",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 1.46,
+        "glucides": 0.23,
+        "lipides": 0.04,
+        "name": "creme caramel",
+        "proteines": 0.045,
+        "unit": "g"
+    },
+    {
+        "calories": 2.85,
+        "glucides": 0.096,
+        "lipides": 0.264,
+        "name": "creme chantilly",
+        "proteines": 0.023,
+        "unit": "g"
+    },
+    {
+        "calories": 2.57,
+        "glucides": 0.44,
+        "lipides": 0.0,
+        "name": "creme cassis",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.0,
+        "glucides": 0.04,
+        "lipides": 0.3,
+        "name": "creme fraiche",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 2.07,
+        "glucides": 0.24,
+        "lipides": 0.11,
+        "name": "creme glacee",
+        "proteines": 0.035,
+        "unit": "g"
+    },
+    {
+        "calories": 1.18,
+        "glucides": 0.23,
+        "lipides": 0.02,
+        "name": "creme patissiere",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 3.0,
+        "glucides": 0.48,
+        "lipides": 0.08,
+        "name": "crepes",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 0.98,
+        "glucides": 0.01,
+        "lipides": 0.01,
+        "name": "crevettes",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 0.88,
+        "glucides": 0.01,
+        "lipides": 0.0,
+        "name": "crevettes roses",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 4.0,
+        "glucides": 0.4888888888888889,
+        "lipides": 0.2,
+        "name": "croissant",
+        "proteines": 0.06666666666666667,
+        "unit": "g"
+    },
+    {
+        "calories": 3.8,
+        "glucides": 0.44,
+        "lipides": 0.24,
+        "name": "croissant au chocolat",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 7.5,
+        "glucides": 0.8,
+        "lipides": 0.42,
+        "name": "croissant aux amandes",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 4.49,
+        "glucides": 0.695,
+        "lipides": 0.14800000000000002,
+        "name": "croquant aux amandes",
+        "proteines": 0.078,
+        "unit": "g"
+    },
+    {
+        "calories": 2.9,
+        "glucides": 0.26,
+        "lipides": 0.15,
+        "name": "croque monsieur",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 2.23,
+        "glucides": 0.21,
+        "lipides": 0.11,
+        "name": "croquette poisson frit",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 3.2,
+        "glucides": 0.15,
+        "lipides": 0.2,
+        "name": "crottin chavignol",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 4.75,
+        "glucides": 0.61,
+        "lipides": 0.21,
+        "name": "cruesli",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 2.42,
+        "glucides": 0.36,
+        "lipides": 0.09,
+        "name": "crumble",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 2.89,
+        "glucides": 0.17,
+        "lipides": 0.17,
+        "name": "cube bouillon",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 1.58,
+        "glucides": 0.0,
+        "lipides": 0.06,
+        "name": "cuisses poulet",
+        "proteines": 0.26,
+        "unit": "g"
+    },
+    {
+        "calories": 2.7,
+        "glucides": 0.3,
+        "lipides": 0.0,
+        "name": "curacao",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.25,
+        "glucides": 0.58,
+        "lipides": 0.14,
+        "name": "curry",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 1.22,
+        "glucides": 0.2,
+        "lipides": 0.03,
+        "name": "danette chocolat",
+        "proteines": 0.033,
+        "unit": "g"
+    },
+    {
+        "calories": 1.07,
+        "glucides": 0.17,
+        "lipides": 0.03,
+        "name": "danette vanille",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 6.25,
+        "glucides": 1.5,
+        "lipides": 0.0,
+        "name": "datte",
+        "proteines": 0.025,
+        "unit": "g"
+    },
+    {
+        "calories": 1.25,
+        "glucides": 0.0,
+        "lipides": 0.04,
+        "name": "dinde",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 4.52,
+        "glucides": 0.51,
+        "lipides": 0.25,
+        "name": "donuts",
+        "proteines": 0.049,
+        "unit": "g"
+    },
+    {
+        "calories": 0.75,
+        "glucides": 0.005,
+        "lipides": 0.0,
+        "name": "dorade",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 5.0,
+        "glucides": 0.6,
+        "lipides": 0.2,
+        "name": "dragee",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 2.37,
+        "glucides": 0.008,
+        "lipides": 0.0,
+        "name": "eaudevie",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.55,
+        "glucides": 0.7,
+        "lipides": 0.013999999999999999,
+        "name": "ebly",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 0.72,
+        "glucides": 0.17,
+        "lipides": 0.0,
+        "name": "echalote",
+        "proteines": 0.025,
+        "unit": "g"
+    },
+    {
+        "calories": 2.88,
+        "glucides": 0.335,
+        "lipides": 0.15,
+        "name": "eclair au cafe",
+        "proteines": 0.047,
+        "unit": "g"
+    },
+    {
+        "calories": 2.79,
+        "glucides": 0.3,
+        "lipides": 0.15,
+        "name": "eclair au chocolat",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 2.88,
+        "glucides": 0.276,
+        "lipides": 0.14,
+        "name": "eclair vanille",
+        "proteines": 0.042,
+        "unit": "g"
+    },
+    {
+        "calories": 0.75,
+        "glucides": 0.02,
+        "lipides": 0.01,
+        "name": "ecrevisse",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 3.57,
+        "glucides": 0.013999999999999999,
+        "lipides": 0.28,
+        "name": "edam",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 0.8,
+        "glucides": 0.0,
+        "lipides": 0.006,
+        "name": "eglefin",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 3.8,
+        "glucides": 0.0,
+        "lipides": 0.396,
+        "name": "emmental",
+        "proteines": 0.284,
+        "unit": "g"
+    },
+    {
+        "calories": 2.36,
+        "glucides": 0.19,
+        "lipides": 0.12,
+        "name": "enchiladas",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 0.8,
+        "glucides": 0.006,
+        "lipides": 0.015,
+        "name": "encornet",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 0.08,
+        "glucides": 0.008,
+        "lipides": 0.002,
+        "name": "endive",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 2.0,
+        "glucides": 0.0,
+        "lipides": 0.1,
+        "name": "entrecote boeuf",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 0.23,
+        "glucides": 0.04,
+        "lipides": 0.01,
+        "name": "epinards",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 2.1,
+        "glucides": 0.17,
+        "lipides": 0.1,
+        "name": "escalope cordon bleu",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 1.11,
+        "glucides": 0.0,
+        "lipides": 0.018000000000000002,
+        "name": "escalope poulet",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 1.49,
+        "glucides": 0.06,
+        "lipides": 0.05,
+        "name": "escalope milanaise",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 3.28,
+        "glucides": 0.025,
+        "lipides": 0.31,
+        "name": "escargot au beurre",
+        "proteines": 0.095,
+        "unit": "g"
+    },
+    {
+        "calories": 0.81,
+        "glucides": 0.02,
+        "lipides": 0.01,
+        "name": "escargots natures",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 1.21,
+        "glucides": 0.0,
+        "lipides": 0.04,
+        "name": "espadon",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 0.39,
+        "glucides": 0.096,
+        "lipides": 0.0,
+        "name": "fanta orange",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.88,
+        "glucides": 0.031,
+        "lipides": 0.068,
+        "name": "faisselle",
+        "proteines": 0.037000000000000005,
+        "unit": "g"
+    },
+    {
+        "calories": 3.44,
+        "glucides": 0.511,
+        "lipides": 0.11699999999999999,
+        "name": "fajitas",
+        "proteines": 0.087,
+        "unit": "g"
+    },
+    {
+        "calories": 2.63,
+        "glucides": 0.008,
+        "lipides": 0.22,
+        "name": "farce porc",
+        "proteines": 0.154,
+        "unit": "g"
+    },
+    {
+        "calories": 3.53,
+        "glucides": 0.65,
+        "lipides": 0.05,
+        "name": "farine avoine",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 3.7,
+        "glucides": 0.79,
+        "lipides": 0.02,
+        "name": "farine mais",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 3.55,
+        "glucides": 0.75,
+        "lipides": 0.012,
+        "name": "farine ble",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 3.65,
+        "glucides": 0.72,
+        "lipides": 0.02,
+        "name": "farfalle",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 6.03,
+        "glucides": 0.444,
+        "lipides": 0.42700000000000005,
+        "name": "ferrero rocher",
+        "proteines": 0.08199999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 2.64,
+        "glucides": 0.040999999999999995,
+        "lipides": 0.21,
+        "name": "feta",
+        "proteines": 0.14,
+        "unit": "g"
+    },
+    {
+        "calories": 0.61,
+        "glucides": 0.06,
+        "lipides": 0.01,
+        "name": "feves cuites",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 5.333333333333333,
+        "glucides": 1.24,
+        "lipides": 0.02666666666666667,
+        "name": "figues",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 2.52,
+        "glucides": 0.5,
+        "lipides": 0.013999999999999999,
+        "name": "figues seches",
+        "proteines": 0.034,
+        "unit": "g"
+    },
+    {
+        "calories": 0.79,
+        "glucides": 0.0,
+        "lipides": 0.006999999999999999,
+        "name": "filet cabillaud",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 4.61,
+        "glucides": 0.431,
+        "lipides": 0.26899999999999996,
+        "name": "financier",
+        "proteines": 0.094,
+        "unit": "g"
+    },
+    {
+        "calories": 0.84,
+        "glucides": 0.17,
+        "lipides": 0.01,
+        "name": "flageolets",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 1.34,
+        "glucides": 0.3,
+        "lipides": 0.07,
+        "name": "flan aux oeufs",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 2.0,
+        "glucides": 0.304,
+        "lipides": 0.07,
+        "name": "flan patissier",
+        "proteines": 0.037000000000000005,
+        "unit": "g"
+    },
+    {
+        "calories": 0.93,
+        "glucides": 0.0,
+        "lipides": 0.01,
+        "name": "fletan",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 3.5,
+        "glucides": 0.58,
+        "lipides": 0.07,
+        "name": "flocons avoine",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 1.52,
+        "glucides": 0.038,
+        "lipides": 0.047,
+        "name": "foie genisse",
+        "proteines": 0.23600000000000002,
+        "unit": "g"
+    },
+    {
+        "calories": 0.0,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "foie volaille",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 4.55,
+        "glucides": 0.025,
+        "lipides": 0.45,
+        "name": "foie gras",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 3.49,
+        "glucides": 0.65,
+        "lipides": 0.057,
+        "name": "fougasse",
+        "proteines": 0.09300000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 3.72,
+        "glucides": 0.025,
+        "lipides": 0.3,
+        "name": "fourme ambert",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 3.65,
+        "glucides": 0.0,
+        "lipides": 0.308,
+        "name": "fourme montbrison",
+        "proteines": 0.225,
+        "unit": "g"
+    },
+    {
+        "calories": 0.33,
+        "glucides": 0.07,
+        "lipides": 0.002,
+        "name": "fraises",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.53,
+        "glucides": 0.12,
+        "lipides": 0.006,
+        "name": "framboise",
+        "proteines": 0.012,
+        "unit": "g"
+    },
+    {
+        "calories": 4.0,
+        "glucides": 0.52,
+        "lipides": 0.19,
+        "name": "frites",
+        "proteines": 0.048,
+        "unit": "g"
+    },
+    {
+        "calories": 0.84,
+        "glucides": 0.04,
+        "lipides": 0.04,
+        "name": "fromage blanc",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 1.68,
+        "glucides": 0.0,
+        "lipides": 0.12,
+        "name": "fromage tete",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 3.76,
+        "glucides": 0.0,
+        "lipides": 0.29,
+        "name": "fromage rape",
+        "proteines": 0.29,
+        "unit": "g"
+    },
+    {
+        "calories": 3.8,
+        "glucides": 0.94,
+        "lipides": 0.0,
+        "name": "fruits confits",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 0.62,
+        "glucides": 0.083,
+        "lipides": 0.012,
+        "name": "fruit la passion",
+        "proteines": 0.026,
+        "unit": "g"
+    },
+    {
+        "calories": 5.39,
+        "glucides": 0.005,
+        "lipides": 0.6,
+        "name": "fruit or",
+        "proteines": 0.005,
+        "unit": "g"
+    },
+    {
+        "calories": 5.47,
+        "glucides": 0.578,
+        "lipides": 0.316,
+        "name": "galak",
+        "proteines": 0.073,
+        "unit": "g"
+    },
+    {
+        "calories": 2.39,
+        "glucides": 0.065,
+        "lipides": 0.165,
+        "name": "galantine",
+        "proteines": 0.159,
+        "unit": "g"
+    },
+    {
+        "calories": 4.72,
+        "glucides": 0.74,
+        "lipides": 0.16,
+        "name": "galette st michel",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 0.98,
+        "glucides": 0.0,
+        "lipides": 0.015,
+        "name": "gambas grillees",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 0.46,
+        "glucides": 0.039,
+        "lipides": 0.026000000000000002,
+        "name": "gaspacho",
+        "proteines": 0.009000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 2.0,
+        "glucides": 0.26,
+        "lipides": 0.09,
+        "name": "gateau au yaourt",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 2.82,
+        "glucides": 0.524,
+        "lipides": 0.046,
+        "name": "gateau savoie",
+        "proteines": 0.077,
+        "unit": "g"
+    },
+    {
+        "calories": 1.4,
+        "glucides": 0.25,
+        "lipides": 0.028999999999999998,
+        "name": "gateau semoule",
+        "proteines": 0.035,
+        "unit": "g"
+    },
+    {
+        "calories": 3.7,
+        "glucides": 0.49,
+        "lipides": 0.163,
+        "name": "gaufre au sucre",
+        "proteines": 0.069,
+        "unit": "g"
+    },
+    {
+        "calories": 2.4,
+        "glucides": 0.59,
+        "lipides": 0.0,
+        "name": "gelee coings",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.3,
+        "glucides": 0.39,
+        "lipides": 0.16,
+        "name": "genoise",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 3.81,
+        "glucides": 0.397,
+        "lipides": 0.091,
+        "name": "germes ble",
+        "proteines": 0.283,
+        "unit": "g"
+    },
+    {
+        "calories": 0.37,
+        "glucides": 0.069,
+        "lipides": 0.001,
+        "name": "germe soja",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 1.78,
+        "glucides": 0.01,
+        "lipides": 0.08,
+        "name": "gesiers volaille",
+        "proteines": 0.26,
+        "unit": "g"
+    },
+    {
+        "calories": 2.63,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "gin",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.0,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "gin fizz",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.8,
+        "glucides": 0.18,
+        "lipides": 0.008,
+        "name": "gingembre",
+        "proteines": 0.018000000000000002,
+        "unit": "g"
+    },
+    {
+        "calories": 0.15,
+        "glucides": 0.005,
+        "lipides": 0.005,
+        "name": "girolles",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 1.8,
+        "glucides": 0.262,
+        "lipides": 0.075,
+        "name": "glace",
+        "proteines": 0.037000000000000005,
+        "unit": "g"
+    },
+    {
+        "calories": 1.92,
+        "glucides": 0.175,
+        "lipides": 0.10800000000000001,
+        "name": "glace au chocolat",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 1.45,
+        "glucides": 0.235,
+        "lipides": 0.045,
+        "name": "glace a la fraise",
+        "proteines": 0.025,
+        "unit": "g"
+    },
+    {
+        "calories": 1.11,
+        "glucides": 0.158,
+        "lipides": 0.047,
+        "name": "glace vanille",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 1.83,
+        "glucides": 0.33,
+        "lipides": 0.027000000000000003,
+        "name": "gnocchi",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 3.79,
+        "glucides": 0.0,
+        "lipides": 0.312,
+        "name": "gorgonzola",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 3.6,
+        "glucides": 0.02,
+        "lipides": 0.28,
+        "name": "gouda",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 0.88,
+        "glucides": 0.19399999999999998,
+        "lipides": 0.001,
+        "name": "goyave en conserve",
+        "proteines": 0.004,
+        "unit": "g"
+    },
+    {
+        "calories": 0.52,
+        "glucides": 0.11,
+        "lipides": 0.006,
+        "name": "goyave fraiche",
+        "proteines": 0.006999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 1.25,
+        "glucides": 0.14,
+        "lipides": 0.063,
+        "name": "gratin dauphinois",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 5.73,
+        "glucides": 0.23,
+        "lipides": 0.5,
+        "name": "graines sesame",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 6.42,
+        "glucides": 0.15,
+        "lipides": 0.527,
+        "name": "graines tournesol",
+        "proteines": 0.235,
+        "unit": "g"
+    },
+    {
+        "calories": 0.71,
+        "glucides": 0.136,
+        "lipides": 0.006,
+        "name": "grenade",
+        "proteines": 0.011,
+        "unit": "g"
+    },
+    {
+        "calories": 3.3,
+        "glucides": 0.82,
+        "lipides": 0.0,
+        "name": "grenadine",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 0.544,
+        "glucides": 0.061,
+        "lipides": 0.005,
+        "name": "groseille",
+        "proteines": 0.011,
+        "unit": "g"
+    },
+    {
+        "calories": 3.92,
+        "glucides": 0.015,
+        "lipides": 0.3,
+        "name": "gruyere",
+        "proteines": 0.29,
+        "unit": "g"
+    },
+    {
+        "calories": 1.3,
+        "glucides": 0.037,
+        "lipides": 0.12,
+        "name": "guacamole mexicain",
+        "proteines": 0.013,
+        "unit": "g"
+    },
+    {
+        "calories": 1.41,
+        "glucides": 0.09,
+        "lipides": 0.07,
+        "name": "hachis parmentier",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 0.81,
+        "glucides": 0.0,
+        "lipides": 0.006,
+        "name": "haddock",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 1.5,
+        "glucides": 0.0,
+        "lipides": 0.086,
+        "name": "hampe boeuf",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 2.58,
+        "glucides": 0.1,
+        "lipides": 0.18,
+        "name": "hareng",
+        "proteines": 0.14,
+        "unit": "g"
+    },
+    {
+        "calories": 1.42,
+        "glucides": 0.0,
+        "lipides": 0.09,
+        "name": "hareng fume",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 0.79,
+        "glucides": 0.15,
+        "lipides": 0.01,
+        "name": "haricots blancs",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 1.11,
+        "glucides": 0.14400000000000002,
+        "lipides": 0.005,
+        "name": "haricots rouges cuits",
+        "proteines": 0.086,
+        "unit": "g"
+    },
+    {
+        "calories": 0.24,
+        "glucides": 0.039,
+        "lipides": 0.002,
+        "name": "haricot vert",
+        "proteines": 0.018000000000000002,
+        "unit": "g"
+    },
+    {
+        "calories": 0.69,
+        "glucides": 0.083,
+        "lipides": 0.03,
+        "name": "harissa",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 0.89,
+        "glucides": 0.006999999999999999,
+        "lipides": 0.011000000000000001,
+        "name": "homard",
+        "proteines": 0.192,
+        "unit": "g"
+    },
+    {
+        "calories": 2.85,
+        "glucides": 0.09300000000000001,
+        "lipides": 0.23399999999999999,
+        "name": "houmous libanais",
+        "proteines": 0.068,
+        "unit": "g"
+    },
+    {
+        "calories": 2.83,
+        "glucides": 0.26,
+        "lipides": 0.147,
+        "name": "hot dog moutarde",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 8.95,
+        "glucides": 0.0,
+        "lipides": 0.9940000000000001,
+        "name": "huile arachide",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 9.0,
+        "glucides": 0.0,
+        "lipides": 1.0,
+        "name": "huile colza",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 9.0,
+        "glucides": 0.0,
+        "lipides": 1.0,
+        "name": "huile friture",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 8.28,
+        "glucides": 0.0,
+        "lipides": 0.92,
+        "name": "huile soja",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 9.0,
+        "glucides": 0.0,
+        "lipides": 1.0,
+        "name": "huile tournesol",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 8.64,
+        "glucides": 0.0,
+        "lipides": 0.96,
+        "name": "huile olive",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.3,
+        "glucides": 0.07,
+        "lipides": 0.0,
+        "name": "ice tea",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.02,
+        "glucides": 0.23,
+        "lipides": 0.001,
+        "name": "igname",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 1.59,
+        "glucides": 0.28,
+        "lipides": 0.03,
+        "name": "ile flottante",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 1.34,
+        "glucides": 0.006,
+        "lipides": 0.06,
+        "name": "jambon blanc",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 1.47,
+        "glucides": 0.01,
+        "lipides": 0.07,
+        "name": "jambonneau cuit",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.92,
+        "glucides": 0.004,
+        "lipides": 0.096,
+        "name": "jambon cru",
+        "proteines": 0.264,
+        "unit": "g"
+    },
+    {
+        "calories": 1.1,
+        "glucides": 0.0075,
+        "lipides": 0.0175,
+        "name": "jambon dinde",
+        "proteines": 0.225,
+        "unit": "g"
+    },
+    {
+        "calories": 1.44,
+        "glucides": 0.004,
+        "lipides": 0.07,
+        "name": "jambon paris",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.07,
+        "glucides": 0.005,
+        "lipides": 0.021,
+        "name": "jambon volaille",
+        "proteines": 0.214,
+        "unit": "g"
+    },
+    {
+        "calories": 0.45,
+        "glucides": 0.104,
+        "lipides": 0.0,
+        "name": "jus orange",
+        "proteines": 0.005,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.27,
+        "glucides": 0.051,
+        "lipides": 0.001,
+        "name": "jus carotte",
+        "proteines": 0.008,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.2,
+        "glucides": 0.8,
+        "lipides": 0.0,
+        "name": "jus citron",
+        "proteines": 0.0,
+        "unit": "cl"
+    },
+    {
+        "calories": 0.6,
+        "glucides": 0.145,
+        "lipides": 0.0,
+        "name": "jus abricot",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 0.49,
+        "glucides": 0.116,
+        "lipides": 0.0,
+        "name": "jus ananas",
+        "proteines": 0.003,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.38,
+        "glucides": 0.08,
+        "lipides": 0.0,
+        "name": "jus pamplemousse",
+        "proteines": 0.004,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.52,
+        "glucides": 0.13,
+        "lipides": 0.0,
+        "name": "jus peche",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.52,
+        "glucides": 0.13,
+        "lipides": 0.0,
+        "name": "jus poire",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.45,
+        "glucides": 0.11,
+        "lipides": 0.0,
+        "name": "jus pomme",
+        "proteines": 0.002,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.83,
+        "glucides": 0.2,
+        "lipides": 0.005,
+        "name": "jus pruneaux",
+        "proteines": 0.005,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.21,
+        "glucides": 0.039,
+        "lipides": 0.0,
+        "name": "jus tomate",
+        "proteines": 0.007,
+        "unit": "g"
+    },
+    {
+        "calories": 0.68,
+        "glucides": 0.16,
+        "lipides": 0.0,
+        "name": "jus raisin",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.68,
+        "glucides": 0.137,
+        "lipides": 0.003,
+        "name": "kaki",
+        "proteines": 0.006,
+        "unit": "g"
+    },
+    {
+        "calories": 2.75,
+        "glucides": 0.0,
+        "lipides": 0.25,
+        "name": "kefta agneau",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 1.12,
+        "glucides": 0.016,
+        "lipides": 0.002,
+        "name": "ketchup",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 5.72,
+        "glucides": 0.495,
+        "lipides": 0.373,
+        "name": "kinder bueno",
+        "proteines": 0.086,
+        "unit": "g"
+    },
+    {
+        "calories": 5.61,
+        "glucides": 0.5489999999999999,
+        "lipides": 0.33799999999999997,
+        "name": "kinder country",
+        "proteines": 0.086,
+        "unit": "g"
+    },
+    {
+        "calories": 4.74,
+        "glucides": 0.451,
+        "lipides": 0.292,
+        "name": "kinder delice",
+        "proteines": 0.054000000000000006,
+        "unit": "g"
+    },
+    {
+        "calories": 5.66,
+        "glucides": 0.535,
+        "lipides": 0.35,
+        "name": "kinder maxi",
+        "proteines": 0.087,
+        "unit": "g"
+    },
+    {
+        "calories": 4.5,
+        "glucides": 0.37799999999999995,
+        "lipides": 0.297,
+        "name": "kinder pingui",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 5.52,
+        "glucides": 0.523,
+        "lipides": 0.342,
+        "name": "kinder surprise",
+        "proteines": 0.081,
+        "unit": "g"
+    },
+    {
+        "calories": 3.1,
+        "glucides": 0.02,
+        "lipides": 0.295,
+        "name": "kiri creme",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 2.93,
+        "glucides": 0.22,
+        "lipides": 0.19,
+        "name": "kiri gouter",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "kirsch",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 5.21,
+        "glucides": 0.6,
+        "lipides": 0.27699999999999997,
+        "name": "kit kat",
+        "proteines": 0.068,
+        "unit": "g"
+    },
+    {
+        "calories": 0.4857142857142857,
+        "glucides": 0.10714285714285714,
+        "lipides": 0.005714285714285714,
+        "name": "kiwi",
+        "proteines": 0.011428571428571429,
+        "unit": "g"
+    },
+    {
+        "calories": 2.32,
+        "glucides": 0.01,
+        "lipides": 0.2,
+        "name": "knack",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 2.74,
+        "glucides": 0.02,
+        "lipides": 0.24,
+        "name": "knacki",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 4.3,
+        "glucides": 0.71,
+        "lipides": 0.1,
+        "name": "krisprolls",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 1.68,
+        "glucides": 0.183,
+        "lipides": 0.076,
+        "name": "kub or maggi",
+        "proteines": 0.064,
+        "unit": "g"
+    },
+    {
+        "calories": 0.62,
+        "glucides": 0.107,
+        "lipides": 0.01,
+        "name": "lait chocolate",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 3.3,
+        "glucides": 0.559,
+        "lipides": 0.085,
+        "name": "lait concentre sucre",
+        "proteines": 0.077,
+        "unit": "g"
+    },
+    {
+        "calories": 0.45,
+        "glucides": 0.045,
+        "lipides": 0.015,
+        "name": "lait chevre",
+        "proteines": 0.033,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.44,
+        "glucides": 0.06,
+        "lipides": 0.019,
+        "name": "lait amandes",
+        "proteines": 0.019,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.1,
+        "glucides": 0.027999999999999997,
+        "lipides": 0.21,
+        "name": "lait coco",
+        "proteines": 0.02,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.52,
+        "glucides": 0.098,
+        "lipides": 0.013999999999999999,
+        "name": "lait epeautre",
+        "proteines": 0.005,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.4,
+        "glucides": 0.017,
+        "lipides": 0.02,
+        "name": "lait soja",
+        "proteines": 0.038,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.45,
+        "glucides": 0.045,
+        "lipides": 0.015,
+        "name": "lait vache demi ecreme",
+        "proteines": 0.03,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.32,
+        "glucides": 0.043,
+        "lipides": 0.002,
+        "name": "lait ecreme",
+        "proteines": 0.033,
+        "unit": "g"
+    },
+    {
+        "calories": 3.59,
+        "glucides": 0.52,
+        "lipides": 0.008,
+        "name": "lait ecreme en poudre",
+        "proteines": 0.36,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.65,
+        "glucides": 0.047,
+        "lipides": 0.037000000000000005,
+        "name": "lait entier",
+        "proteines": 0.032,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.43,
+        "glucides": 0.048,
+        "lipides": 0.012,
+        "name": "lait sans lactose",
+        "proteines": 0.032,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.14,
+        "glucides": 0.013999999999999999,
+        "lipides": 0.002,
+        "name": "laitue",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 2.78,
+        "glucides": 0.0,
+        "lipides": 0.22,
+        "name": "langue boeuf",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 4.35,
+        "glucides": 0.764,
+        "lipides": 0.114,
+        "name": "langues chat",
+        "proteines": 0.052000000000000005,
+        "unit": "g"
+    },
+    {
+        "calories": 0.88,
+        "glucides": 0.0,
+        "lipides": 0.006,
+        "name": "langoustine",
+        "proteines": 0.205,
+        "unit": "g"
+    },
+    {
+        "calories": 1.35,
+        "glucides": 0.0,
+        "lipides": 0.057999999999999996,
+        "name": "lapin cuit",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 6.7,
+        "glucides": 0.0,
+        "lipides": 0.7,
+        "name": "lard",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 3.38,
+        "glucides": 0.02,
+        "lipides": 0.26,
+        "name": "lardons",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 1.45,
+        "glucides": 0.11199999999999999,
+        "lipides": 0.055999999999999994,
+        "name": "lasagnes",
+        "proteines": 0.12300000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 0.9,
+        "glucides": 0.126,
+        "lipides": 0.005,
+        "name": "lentilles cuites",
+        "proteines": 0.08199999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 0.99,
+        "glucides": 0.16,
+        "lipides": 0.005,
+        "name": "lentilles",
+        "proteines": 0.075,
+        "unit": "g"
+    },
+    {
+        "calories": 1.05,
+        "glucides": 0.18,
+        "lipides": 0.019,
+        "name": "levure boulanger",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 0.4,
+        "glucides": 0.1,
+        "lipides": 0.0,
+        "name": "limonade",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.9,
+        "glucides": 0.0,
+        "lipides": 0.02,
+        "name": "lieu",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 2.03,
+        "glucides": 0.0,
+        "lipides": 0.09,
+        "name": "lievre civet",
+        "proteines": 0.3,
+        "unit": "g"
+    },
+    {
+        "calories": 0.69,
+        "glucides": 0.14,
+        "lipides": 0.004,
+        "name": "litchi",
+        "proteines": 0.008,
+        "unit": "g"
+    },
+    {
+        "calories": 3.54,
+        "glucides": 0.08,
+        "lipides": 0.22,
+        "name": "livarot fromage",
+        "proteines": 0.31,
+        "unit": "g"
+    },
+    {
+        "calories": 2.52,
+        "glucides": 0.63,
+        "lipides": 0.0,
+        "name": "loukoums",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.52,
+        "glucides": 0.0,
+        "lipides": 0.27,
+        "name": "maasdam",
+        "proteines": 0.27,
+        "unit": "g"
+    },
+    {
+        "calories": 4.36,
+        "glucides": 0.59,
+        "lipides": 0.18,
+        "name": "macaron",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 3.71,
+        "glucides": 0.75,
+        "lipides": 0.015,
+        "name": "macaronis",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 0.39,
+        "glucides": 0.049,
+        "lipides": 0.0,
+        "name": "macedoine legumes",
+        "proteines": 0.022000000000000002,
+        "unit": "g"
+    },
+    {
+        "calories": 0.21,
+        "glucides": 0.0125,
+        "lipides": 0.01,
+        "name": "mache salade",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 4.72,
+        "glucides": 0.49,
+        "lipides": 0.28,
+        "name": "madeleine",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "madere",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.32,
+        "glucides": 0.3,
+        "lipides": 0.21,
+        "name": "magnum amande",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 3.09,
+        "glucides": 0.29,
+        "lipides": 0.19,
+        "name": "magnum chocolat",
+        "proteines": 0.036000000000000004,
+        "unit": "g"
+    },
+    {
+        "calories": 1.98,
+        "glucides": 0.0,
+        "lipides": 0.12,
+        "name": "magret canard",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 3.65,
+        "glucides": 0.74,
+        "lipides": 0.047,
+        "name": "mais",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 1.03,
+        "glucides": 0.17800000000000002,
+        "lipides": 0.013999999999999999,
+        "name": "mais en boite",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 3.5,
+        "glucides": 0.7,
+        "lipides": 0.035,
+        "name": "maizena",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 1.59,
+        "glucides": 0.27,
+        "lipides": 0.027999999999999997,
+        "name": "maki saumaon",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 1.38,
+        "glucides": 0.23,
+        "lipides": 0.013999999999999999,
+        "name": "maki thon",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 0.41,
+        "glucides": 0.094,
+        "lipides": 0.0,
+        "name": "mandarine",
+        "proteines": 0.005,
+        "unit": "g"
+    },
+    {
+        "calories": 0.64,
+        "glucides": 0.14,
+        "lipides": 0.002,
+        "name": "mangue",
+        "proteines": 0.006999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 1.8,
+        "glucides": 0.005,
+        "lipides": 0.095,
+        "name": "maquereaux",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 7.44,
+        "glucides": 0.0,
+        "lipides": 0.825,
+        "name": "margarine",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 2.1,
+        "glucides": 0.42,
+        "lipides": 0.03,
+        "name": "marrons",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 4.52,
+        "glucides": 0.7020000000000001,
+        "lipides": 0.172,
+        "name": "mars",
+        "proteines": 0.036000000000000004,
+        "unit": "g"
+    },
+    {
+        "calories": 3.18,
+        "glucides": 0.81,
+        "lipides": 0.002,
+        "name": "marshmallows",
+        "proteines": 0.018000000000000002,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "martini",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.55,
+        "glucides": 0.03,
+        "lipides": 0.36,
+        "name": "mascarpone",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 6.87,
+        "glucides": 0.02,
+        "lipides": 0.75,
+        "name": "mayonnaise",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 3.44,
+        "glucides": 0.055999999999999994,
+        "lipides": 0.35200000000000004,
+        "name": "mayonnaise allegee",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 4.44,
+        "glucides": 0.45,
+        "lipides": 0.19,
+        "name": "mcchicken",
+        "proteines": 0.21,
+        "unit": "g"
+    },
+    {
+        "calories": 2.94,
+        "glucides": 0.0,
+        "lipides": 0.21,
+        "name": "mechoui agneau",
+        "proteines": 0.25,
+        "unit": "g"
+    },
+    {
+        "calories": 0.32,
+        "glucides": 0.065,
+        "lipides": 0.0,
+        "name": "melon",
+        "proteines": 0.006999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 3.0,
+        "glucides": 0.006,
+        "lipides": 0.26,
+        "name": "merguez",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 0.4,
+        "glucides": 0.9179999999999999,
+        "lipides": 0.013000000000000001,
+        "name": "meringue",
+        "proteines": 0.055,
+        "unit": "g"
+    },
+    {
+        "calories": 1.25,
+        "glucides": 0.0,
+        "lipides": 0.036000000000000004,
+        "name": "merlan frit",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 0.84,
+        "glucides": 0.0,
+        "lipides": 0.008,
+        "name": "merlu",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": NaN,
+        "glucides": NaN,
+        "lipides": NaN,
+        "name": "miel",
+        "proteines": NaN,
+        "unit": "cas"
+    },
+    {
+        "calories": 3.2,
+        "glucides": 0.31,
+        "lipides": 0.19,
+        "name": "millefeuille",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 3.29,
+        "glucides": 0.0,
+        "lipides": 0.257,
+        "name": "mimolette",
+        "proteines": 0.249,
+        "unit": "g"
+    },
+    {
+        "calories": 0.6,
+        "glucides": 0.15,
+        "lipides": 0.0,
+        "name": "mirabelle",
+        "proteines": 0.005,
+        "unit": "g"
+    },
+    {
+        "calories": 4.4,
+        "glucides": 0.47,
+        "lipides": 0.26,
+        "name": "moelleux fondant chocolat",
+        "proteines": 0.055,
+        "unit": "g"
+    },
+    {
+        "calories": 2.86,
+        "glucides": 0.05,
+        "lipides": 0.24,
+        "name": "mont or",
+        "proteines": 0.17,
+        "unit": "g"
+    },
+    {
+        "calories": 3.48,
+        "glucides": 0.0,
+        "lipides": 0.28,
+        "name": "morbier",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 3.05,
+        "glucides": 0.0,
+        "lipides": 0.25,
+        "name": "mortadelle",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.39,
+        "glucides": 0.0,
+        "lipides": 0.01,
+        "name": "morue salee",
+        "proteines": 0.325,
+        "unit": "g"
+    },
+    {
+        "calories": 0.83,
+        "glucides": 0.04,
+        "lipides": 0.025,
+        "name": "moules marinieres",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 3.9,
+        "glucides": 0.02,
+        "lipides": 0.38,
+        "name": "mousse canard",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 3.17,
+        "glucides": 0.036000000000000004,
+        "lipides": 0.289,
+        "name": "mousse foie",
+        "proteines": 0.105,
+        "unit": "g"
+    },
+    {
+        "calories": 0.0,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "mousseux",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.55,
+        "glucides": 0.05,
+        "lipides": 0.14,
+        "name": "moutarde",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 1.61,
+        "glucides": 0.044000000000000004,
+        "lipides": 0.12,
+        "name": "moutarde dijon",
+        "proteines": 0.079,
+        "unit": "g"
+    },
+    {
+        "calories": 2.34,
+        "glucides": 0.001,
+        "lipides": 0.111,
+        "name": "mouton",
+        "proteines": 0.33399999999999996,
+        "unit": "g"
+    },
+    {
+        "calories": 2.6666666666666665,
+        "glucides": 0.016666666666666666,
+        "lipides": 0.20833333333333334,
+        "name": "mozzarella",
+        "proteines": 0.18333333333333332,
+        "unit": "g"
+    },
+    {
+        "calories": 3.74,
+        "glucides": 0.615,
+        "lipides": 0.053,
+        "name": "muesli",
+        "proteines": 0.075,
+        "unit": "g"
+    },
+    {
+        "calories": 3.39,
+        "glucides": 0.01,
+        "lipides": 0.27,
+        "name": "munster",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 0.52,
+        "glucides": 0.11199999999999999,
+        "lipides": 0.005,
+        "name": "mures",
+        "proteines": 0.013000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "muscat",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.01,
+        "glucides": 0.01,
+        "lipides": 0.15,
+        "name": "museau porc",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 0.6,
+        "glucides": 0.11599999999999999,
+        "lipides": 0.002,
+        "name": "myrtilles",
+        "proteines": 0.006,
+        "unit": "g"
+    },
+    {
+        "calories": 5.11,
+        "glucides": 0.59,
+        "lipides": 0.253,
+        "name": "mms",
+        "proteines": 0.098,
+        "unit": "g"
+    },
+    {
+        "calories": 3.06,
+        "glucides": 0.32,
+        "lipides": 0.17,
+        "name": "nachos",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 4.52,
+        "glucides": 0.58,
+        "lipides": 0.2,
+        "name": "napolitain",
+        "proteines": 0.040999999999999995,
+        "unit": "g"
+    },
+    {
+        "calories": 0.21,
+        "glucides": 0.031,
+        "lipides": 0.002,
+        "name": "navets cuits",
+        "proteines": 0.006999999999999999,
+        "unit": "g"
+    },
+    {
+        "calories": 0.43,
+        "glucides": 0.077,
+        "lipides": 0.001,
+        "name": "nectarine",
+        "proteines": 0.017,
+        "unit": "g"
+    },
+    {
+        "calories": 0.58,
+        "glucides": 0.129,
+        "lipides": 0.001,
+        "name": "nectar abricot",
+        "proteines": 0.004,
+        "unit": "g"
+    },
+    {
+        "calories": 2.34,
+        "glucides": 0.19399999999999998,
+        "lipides": 0.13,
+        "name": "nem",
+        "proteines": 0.081,
+        "unit": "g"
+    },
+    {
+        "calories": 0.36,
+        "glucides": 0.062,
+        "lipides": 0.006999999999999999,
+        "name": "nescafe cappuccino",
+        "proteines": 0.009000000000000001,
+        "unit": "g"
+    },
+    {
+        "calories": 0.04,
+        "glucides": 0.001,
+        "lipides": 0.0,
+        "name": "nescafe expresso",
+        "proteines": 0.003,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.19,
+        "glucides": 0.045,
+        "lipides": 0.0,
+        "name": "nestea peche",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 0.72,
+        "glucides": 0.10099999999999999,
+        "lipides": 0.017,
+        "name": "nesquik boisson cacao",
+        "proteines": 0.039,
+        "unit": "ml"
+    },
+    {
+        "calories": 6.28,
+        "glucides": 0.17,
+        "lipides": 0.61,
+        "name": "noisettes",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 4.6,
+        "glucides": 0.08,
+        "lipides": 0.44000000000000006,
+        "name": "noix",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 6.31,
+        "glucides": 0.218,
+        "lipides": 0.491,
+        "name": "noix cajou",
+        "proteines": 0.198,
+        "unit": "g"
+    },
+    {
+        "calories": 3.62,
+        "glucides": 0.1,
+        "lipides": 0.34,
+        "name": "noix coco",
+        "proteines": 0.040999999999999995,
+        "unit": "g"
+    },
+    {
+        "calories": 6.65,
+        "glucides": 0.14,
+        "lipides": 0.65,
+        "name": "noix grenoble",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 7.34,
+        "glucides": 0.059000000000000004,
+        "lipides": 0.7290000000000001,
+        "name": "noix macadamia",
+        "proteines": 0.079,
+        "unit": "g"
+    },
+    {
+        "calories": 7.0,
+        "glucides": 0.044,
+        "lipides": 0.72,
+        "name": "noix pecan",
+        "proteines": 0.093,
+        "unit": "g"
+    },
+    {
+        "calories": 0.63,
+        "glucides": 0.0,
+        "lipides": 0.001,
+        "name": "noix st jacques",
+        "proteines": 0.156,
+        "unit": "g"
+    },
+    {
+        "calories": 7.05,
+        "glucides": 0.027000000000000003,
+        "lipides": 0.682,
+        "name": "noix du bresil",
+        "proteines": 0.141,
+        "unit": "g"
+    },
+    {
+        "calories": 4.5,
+        "glucides": 0.713,
+        "lipides": 0.153,
+        "name": "nougat",
+        "proteines": 0.061,
+        "unit": "g"
+    },
+    {
+        "calories": NaN,
+        "glucides": NaN,
+        "lipides": NaN,
+        "name": "nouilles chinoises",
+        "proteines": NaN,
+        "unit": "sachet"
+    },
+    {
+        "calories": 2.96,
+        "glucides": 0.14,
+        "lipides": 0.2,
+        "name": "nuggets",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 5.4,
+        "glucides": 0.587,
+        "lipides": 0.3,
+        "name": "nutella",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 0.64,
+        "glucides": 0.071,
+        "lipides": 0.0,
+        "name": "nuoc nam",
+        "proteines": 0.089,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.41,
+        "glucides": 0.099,
+        "lipides": 0.0,
+        "name": "oasis orange",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 1.16,
+        "glucides": 0.027,
+        "lipides": 0.06,
+        "name": "oeuf lump",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 2.74,
+        "glucides": 0.0,
+        "lipides": 0.175,
+        "name": "oie rotie",
+        "proteines": 0.291,
+        "unit": "g"
+    },
+    {
+        "calories": 0.43,
+        "glucides": 0.074,
+        "lipides": 0.006,
+        "name": "oignon cru",
+        "proteines": 0.013,
+        "unit": "g"
+    },
+    {
+        "calories": 1.62,
+        "glucides": 0.017,
+        "lipides": 0.14,
+        "name": "olive noire",
+        "proteines": 0.009,
+        "unit": "g"
+    },
+    {
+        "calories": 1.45,
+        "glucides": 0.013,
+        "lipides": 0.139,
+        "name": "olive verte",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.45,
+        "glucides": 0.096,
+        "lipides": 0.002,
+        "name": "orange",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.42,
+        "glucides": 0.1,
+        "lipides": 0.0,
+        "name": "orangina",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 4.78,
+        "glucides": 0.65,
+        "lipides": 0.21,
+        "name": "oreo",
+        "proteines": 0.057,
+        "unit": "g"
+    },
+    {
+        "calories": 2.65,
+        "glucides": 0.69,
+        "lipides": 0.043,
+        "name": "origan",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 0.22,
+        "glucides": 0.028999999999999998,
+        "lipides": 0.001,
+        "name": "oseille cuite",
+        "proteines": 0.018000000000000002,
+        "unit": "g"
+    },
+    {
+        "calories": 1.26,
+        "glucides": 0.0,
+        "lipides": 0.04,
+        "name": "oursin",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 3.69,
+        "glucides": 0.76,
+        "lipides": 0.017,
+        "name": "ovomaltine",
+        "proteines": 0.099,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.19,
+        "lipides": 0.06,
+        "name": "paella",
+        "proteines": 0.075,
+        "unit": "g"
+    },
+    {
+        "calories": 2.3333333333333335,
+        "glucides": 0.43333333333333335,
+        "lipides": 0.02,
+        "name": "pain",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 2.9,
+        "glucides": 0.5,
+        "lipides": 0.057,
+        "name": "pain a burger",
+        "proteines": 0.095,
+        "unit": "g"
+    },
+    {
+        "calories": 4.33,
+        "glucides": 0.48,
+        "lipides": 0.237,
+        "name": "quatre quart",
+        "proteines": 0.057,
+        "unit": "g"
+    },
+    {
+        "calories": 2.1,
+        "glucides": 0.13,
+        "lipides": 0.17,
+        "name": "quenelles",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 0.57,
+        "glucides": 0.13,
+        "lipides": 0.0,
+        "name": "quetsche",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.29,
+        "lipides": 0.025,
+        "name": "quinoa",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.29,
+        "lipides": 0.025,
+        "name": "quinoa bio",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 0.15,
+        "glucides": 0.026000000000000002,
+        "lipides": 0.003,
+        "name": "radis rouge",
+        "proteines": 0.006,
+        "unit": "g"
+    },
+    {
+        "calories": 0.81,
+        "glucides": 0.17,
+        "lipides": 0.01,
+        "name": "raisin",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.67,
+        "glucides": 0.17,
+        "lipides": 0.004,
+        "name": "raisin noir",
+        "proteines": 0.006,
+        "unit": "g"
+    },
+    {
+        "calories": 0.89,
+        "glucides": 0.0,
+        "lipides": 0.016,
+        "name": "rascasse",
+        "proteines": 0.187,
+        "unit": "g"
+    },
+    {
+        "calories": 0.76,
+        "glucides": 0.08,
+        "lipides": 0.04,
+        "name": "ratatouille",
+        "proteines": 0.02,
+        "unit": "g"
+    },
+    {
+        "calories": 2.92,
+        "glucides": 0.33,
+        "lipides": 0.12,
+        "name": "ravioles",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 2.85,
+        "glucides": 0.36,
+        "lipides": 0.13,
+        "name": "raviolis boeuf",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 3.54,
+        "glucides": 0.08,
+        "lipides": 0.22,
+        "name": "reblochon",
+        "proteines": 0.31,
+        "unit": "g"
+    },
+    {
+        "calories": 2.3,
+        "glucides": 0.3,
+        "lipides": 0.1,
+        "name": "religieuse",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 1.26,
+        "glucides": 0.316,
+        "lipides": 0.001,
+        "name": "rhubarbe cuite sucree",
+        "proteines": 0.004,
+        "unit": "g"
+    },
+    {
+        "calories": 4.49,
+        "glucides": 0.53,
+        "lipides": 0.17,
+        "name": "ricore au lait",
+        "proteines": 0.155,
+        "unit": "g"
+    },
+    {
+        "calories": 1.67,
+        "glucides": 0.036000000000000004,
+        "lipides": 0.136,
+        "name": "ricotta",
+        "proteines": 0.076,
+        "unit": "g"
+    },
+    {
+        "calories": 4.24,
+        "glucides": 0.001,
+        "lipides": 0.40299999999999997,
+        "name": "rillettes volaille",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 2.28,
+        "glucides": 0.013000000000000001,
+        "lipides": 0.168,
+        "name": "rillettes porc",
+        "proteines": 0.18,
+        "unit": "g"
+    },
+    {
+        "calories": 4.17,
+        "glucides": 0.001,
+        "lipides": 0.4,
+        "name": "rillettes saumon",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 4.01,
+        "glucides": 0.004,
+        "lipides": 0.38,
+        "name": "rillettes oie",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 1.16,
+        "glucides": 0.0,
+        "lipides": 0.04,
+        "name": "ris veau",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.1,
+        "glucides": 0.25,
+        "lipides": 0.003,
+        "name": "riz",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 1.25,
+        "glucides": 0.218,
+        "lipides": 0.028,
+        "name": "riz au lait",
+        "proteines": 0.029,
+        "unit": "g"
+    },
+    {
+        "calories": 3.52,
+        "glucides": 0.767,
+        "lipides": 0.01,
+        "name": "riz basmati",
+        "proteines": 0.084,
+        "unit": "g"
+    },
+    {
+        "calories": 3.6,
+        "glucides": 0.739,
+        "lipides": 0.028,
+        "name": "riz complet",
+        "proteines": 0.075,
+        "unit": "g"
+    },
+    {
+        "calories": 26.0,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "rhum blanc",
+        "proteines": 0.0,
+        "unit": "cl"
+    },
+    {
+        "calories": 3.7,
+        "glucides": 0.02,
+        "lipides": 0.3,
+        "name": "roquefort",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 0.25,
+        "glucides": 0.04,
+        "lipides": 0.01,
+        "name": "roquette",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 3.04,
+        "glucides": 0.024,
+        "lipides": 0.3,
+        "name": "rondele",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 3.84,
+        "glucides": 0.006999999999999999,
+        "lipides": 0.31,
+        "name": "rosette lyon",
+        "proteines": 0.26,
+        "unit": "g"
+    },
+    {
+        "calories": 1.1538461538461537,
+        "glucides": 0.16923076923076924,
+        "lipides": 0.01846153846153846,
+        "name": "rouleau printemps",
+        "proteines": 0.057692307692307696,
+        "unit": "g"
+    },
+    {
+        "calories": 1.05,
+        "glucides": 0.0,
+        "lipides": 0.01,
+        "name": "roussette",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 3.4,
+        "glucides": 0.0,
+        "lipides": 0.28,
+        "name": "rouy",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 0.34,
+        "glucides": 0.075,
+        "lipides": 0.005,
+        "name": "rutabaga",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 4.63,
+        "glucides": 0.71,
+        "lipides": 0.16,
+        "name": "sable saint michel",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 3.65,
+        "glucides": 0.01,
+        "lipides": 0.33,
+        "name": "saint agur",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 3.21,
+        "glucides": 0.0,
+        "lipides": 0.3,
+        "name": "saintfelicien",
+        "proteines": 0.14,
+        "unit": "g"
+    },
+    {
+        "calories": 2.83,
+        "glucides": 0.01,
+        "lipides": 0.25,
+        "name": "saintmarcellin",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 2.01,
+        "glucides": 0.03,
+        "lipides": 0.175,
+        "name": "saintmoret",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 3.39,
+        "glucides": 0.0,
+        "lipides": 0.27,
+        "name": "saintnectaire",
+        "proteines": 0.24,
+        "unit": "g"
+    },
+    {
+        "calories": 0.13,
+        "glucides": 0.02,
+        "lipides": 0.002,
+        "name": "salade verte",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 3.36,
+        "glucides": 0.024,
+        "lipides": 0.26,
+        "name": "salami",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 0.34,
+        "glucides": 0.05,
+        "lipides": 0.0,
+        "name": "salsifis",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 2.12,
+        "glucides": 0.2,
+        "lipides": 0.12,
+        "name": "samoussas",
+        "proteines": 0.06,
+        "unit": "g"
+    },
+    {
+        "calories": 1.22,
+        "glucides": 0.02,
+        "lipides": 0.11,
+        "name": "sandre",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 1.25,
+        "glucides": 0.0,
+        "lipides": 0.05,
+        "name": "sardine",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 1.78,
+        "glucides": 0.0,
+        "lipides": 0.1,
+        "name": "sardines a lhuile",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 1.2,
+        "glucides": 0.24,
+        "lipides": 0.02,
+        "name": "sauce aigre douce",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 7.62,
+        "glucides": 0.03,
+        "lipides": 0.82,
+        "name": "sauce aioli",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 1.54,
+        "glucides": 0.35,
+        "lipides": 0.0,
+        "name": "sauce barbecue",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 4.96,
+        "glucides": 0.085,
+        "lipides": 0.51,
+        "name": "sauce bearnaise",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 1.41,
+        "glucides": 0.11,
+        "lipides": 0.09,
+        "name": "sauce bechamel",
+        "proteines": 0.04,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.45,
+        "glucides": 0.04,
+        "lipides": 0.11,
+        "name": "sauce bolognaise",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 6.23,
+        "glucides": 0.05,
+        "lipides": 0.65,
+        "name": "sauce cocktail",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 6.8,
+        "glucides": 0.006,
+        "lipides": 0.75,
+        "name": "sauce mayonnaise",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 0.35,
+        "glucides": 0.04,
+        "lipides": 0.0,
+        "name": "sauce nuocmam",
+        "proteines": 0.05,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.6,
+        "glucides": 0.076,
+        "lipides": 0.37200000000000005,
+        "name": "sauce romesco",
+        "proteines": 0.038,
+        "unit": "g"
+    },
+    {
+        "calories": 7.19,
+        "glucides": 0.006999999999999999,
+        "lipides": 0.79,
+        "name": "sauce samourai",
+        "proteines": 0.012,
+        "unit": "g"
+    },
+    {
+        "calories": 5.44,
+        "glucides": 0.05,
+        "lipides": 0.38,
+        "name": "sauce tartare",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 3.55,
+        "glucides": 0.08,
+        "lipides": 0.35,
+        "name": "sauce poivre",
+        "proteines": 0.01,
+        "unit": "ml"
+    },
+    {
+        "calories": 5.17,
+        "glucides": 0.064,
+        "lipides": 0.514,
+        "name": "sauce pesto",
+        "proteines": 0.063,
+        "unit": "g"
+    },
+    {
+        "calories": 0.36,
+        "glucides": 0.07,
+        "lipides": 0.002,
+        "name": "sauce salsa",
+        "proteines": 0.015,
+        "unit": "g"
+    },
+    {
+        "calories": 0.6,
+        "glucides": 0.06,
+        "lipides": 0.03,
+        "name": "sauce tomate",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 5.87,
+        "glucides": 0.03,
+        "lipides": 0.65,
+        "name": "vinaigrette",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 2.93,
+        "glucides": 0.01,
+        "lipides": 0.27,
+        "name": "saucisse francfort",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 3.33,
+        "glucides": 0.0,
+        "lipides": 0.3,
+        "name": "saucisse morteau",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 2.87,
+        "glucides": 0.01,
+        "lipides": 0.26,
+        "name": "saucisse strasbourg",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 4.76,
+        "glucides": 0.03,
+        "lipides": 0.39,
+        "name": "saucisse seche",
+        "proteines": 0.26,
+        "unit": "g"
+    },
+    {
+        "calories": 3.09,
+        "glucides": 0.02,
+        "lipides": 0.27,
+        "name": "saucisson",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 1.9,
+        "glucides": 0.0,
+        "lipides": 0.12,
+        "name": "saumon",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 0.36,
+        "glucides": 0.09,
+        "lipides": 0.0,
+        "name": "schweppes",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.6,
+        "glucides": 0.73,
+        "lipides": 0.01,
+        "name": "semoule",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 3.09,
+        "glucides": 0.76,
+        "lipides": 0.005,
+        "name": "sirop agave",
+        "proteines": 0.001,
+        "unit": "g"
+    },
+    {
+        "calories": 3.28,
+        "glucides": 0.82,
+        "lipides": 0.0,
+        "name": "sirop anis",
+        "proteines": 0.002,
+        "unit": "g"
+    },
+    {
+        "calories": 2.6,
+        "glucides": 0.68,
+        "lipides": 0.001,
+        "name": "sirop erable",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.0,
+        "glucides": 0.76,
+        "lipides": 0.0,
+        "name": "sirop grenadine",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 3.08,
+        "glucides": 0.77,
+        "lipides": 0.0,
+        "name": "sirop menthe",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.57,
+        "glucides": 0.039,
+        "lipides": 0.002,
+        "name": "skyr",
+        "proteines": 0.1,
+        "unit": "g"
+    },
+    {
+        "calories": 4.84,
+        "glucides": 0.602,
+        "lipides": 0.223,
+        "name": "snickers",
+        "proteines": 0.087,
+        "unit": "g"
+    },
+    {
+        "calories": 0.36,
+        "glucides": 0.005,
+        "lipides": 0.02,
+        "name": "soja a boire",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 0.73,
+        "glucides": 0.0,
+        "lipides": 0.01,
+        "name": "sole poisson",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 1.34,
+        "glucides": 0.33,
+        "lipides": 0.0,
+        "name": "sorbets",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 3.51,
+        "glucides": 0.7,
+        "lipides": 0.025,
+        "name": "spaghettis",
+        "proteines": 0.12,
+        "unit": "g"
+    },
+    {
+        "calories": 1.74,
+        "glucides": 0.002,
+        "lipides": 0.069,
+        "name": "steak cheval",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 1.57,
+        "glucides": 0.0,
+        "lipides": 0.05,
+        "name": "steak boeuf",
+        "proteines": 0.28,
+        "unit": "g"
+    },
+    {
+        "calories": 2.11,
+        "glucides": 0.0,
+        "lipides": 0.15,
+        "name": "steak hache",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 1.9,
+        "glucides": 0.01,
+        "lipides": 0.14,
+        "name": "steak tartare",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 4.0,
+        "glucides": 1.0,
+        "lipides": 0.0,
+        "name": "sucre",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.87,
+        "glucides": 1.0,
+        "lipides": 0.0,
+        "name": "sucre semoule",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 1.2266666666666666,
+        "glucides": 0.132,
+        "lipides": 0.04533333333333333,
+        "name": "surimi",
+        "proteines": 0.07333333333333333,
+        "unit": "g"
+    },
+    {
+        "calories": 1.6,
+        "glucides": 0.24100000000000002,
+        "lipides": 0.051,
+        "name": "taboule",
+        "proteines": 0.043,
+        "unit": "g"
+    },
+    {
+        "calories": 2.26,
+        "glucides": 0.2,
+        "lipides": 0.13,
+        "name": "tacos",
+        "proteines": 0.09,
+        "unit": "g"
+    },
+    {
+        "calories": 3.65,
+        "glucides": 0.72,
+        "lipides": 0.02,
+        "name": "tagliatelles",
+        "proteines": 0.13,
+        "unit": "g"
+    },
+    {
+        "calories": 2.52,
+        "glucides": 0.04,
+        "lipides": 0.25,
+        "name": "tapenade",
+        "proteines": 0.01,
+        "unit": "g"
+    },
+    {
+        "calories": 5.44,
+        "glucides": 0.1,
+        "lipides": 0.529,
+        "name": "tarama",
+        "proteines": 0.069,
+        "unit": "g"
+    },
+    {
+        "calories": 3.51,
+        "glucides": 0.03,
+        "lipides": 0.345,
+        "name": "tartare fromage",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 2.12,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "tequila",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.84,
+        "glucides": 0.025,
+        "lipides": 0.23399999999999999,
+        "name": "terrine campagne",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 3.1,
+        "glucides": 0.035,
+        "lipides": 0.26,
+        "name": "terrine canard",
+        "proteines": 0.152,
+        "unit": "g"
+    },
+    {
+        "calories": 1.33,
+        "glucides": 0.06,
+        "lipides": 0.09,
+        "name": "terrine legume",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 1.17,
+        "glucides": 0.0,
+        "lipides": 0.016,
+        "name": "thon",
+        "proteines": 0.256,
+        "unit": "g"
+    },
+    {
+        "calories": 5.23,
+        "glucides": 0.6,
+        "lipides": 0.29,
+        "name": "toblerone",
+        "proteines": 0.05,
+        "unit": "g"
+    },
+    {
+        "calories": 0.21,
+        "glucides": 0.046,
+        "lipides": 0.003,
+        "name": "tomate",
+        "proteines": 0.008,
+        "unit": "g"
+    },
+    {
+        "calories": 0.2,
+        "glucides": 0.035,
+        "lipides": 0.003,
+        "name": "tomate cerise",
+        "proteines": 0.008,
+        "unit": "g"
+    },
+    {
+        "calories": 3.61,
+        "glucides": 0.0,
+        "lipides": 0.3,
+        "name": "tomme savoie",
+        "proteines": 0.22,
+        "unit": "g"
+    },
+    {
+        "calories": 0.62,
+        "glucides": 0.14,
+        "lipides": 0.0,
+        "name": "topinambour",
+        "proteines": 0.016,
+        "unit": "g"
+    },
+    {
+        "calories": 2.37,
+        "glucides": 0.5,
+        "lipides": 0.01,
+        "name": "tortilla",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 1.88,
+        "glucides": 0.0,
+        "lipides": 0.12,
+        "name": "tournedos boeuf",
+        "proteines": 0.2,
+        "unit": "g"
+    },
+    {
+        "calories": 3.35,
+        "glucides": 0.0,
+        "lipides": 0.27,
+        "name": "travers porc",
+        "proteines": 0.23,
+        "unit": "g"
+    },
+    {
+        "calories": 2.88,
+        "glucides": 0.42,
+        "lipides": 0.11,
+        "name": "truffes au chocolat",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 1.22,
+        "glucides": 0.0,
+        "lipides": 0.036,
+        "name": "truite",
+        "proteines": 0.224,
+        "unit": "g"
+    },
+    {
+        "calories": 4.49,
+        "glucides": 0.7,
+        "lipides": 0.15,
+        "name": "tuiles aux amandes",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 1.18,
+        "glucides": 0.0,
+        "lipides": 0.06,
+        "name": "turbot",
+        "proteines": 0.16,
+        "unit": "g"
+    },
+    {
+        "calories": 5.58,
+        "glucides": 0.39,
+        "lipides": 0.38,
+        "name": "turron",
+        "proteines": 0.15,
+        "unit": "g"
+    },
+    {
+        "calories": 4.95,
+        "glucides": 0.65,
+        "lipides": 0.24,
+        "name": "twix",
+        "proteines": 0.045,
+        "unit": "g"
+    },
+    {
+        "calories": 1.41,
+        "glucides": 0.03,
+        "lipides": 0.11,
+        "name": "tzatziki",
+        "proteines": 0.07,
+        "unit": "g"
+    },
+    {
+        "calories": 1.07,
+        "glucides": 0.193,
+        "lipides": 0.027000000000000003,
+        "name": "vacherin",
+        "proteines": 0.012,
+        "unit": "g"
+    },
+    {
+        "calories": 2.39,
+        "glucides": 0.06,
+        "lipides": 0.19,
+        "name": "vache qui rit",
+        "proteines": 0.11,
+        "unit": "g"
+    },
+    {
+        "calories": 1.75,
+        "glucides": 0.0,
+        "lipides": 0.1,
+        "name": "veau",
+        "proteines": 0.19,
+        "unit": "g"
+    },
+    {
+        "calories": 9.0,
+        "glucides": 0.0,
+        "lipides": 1.0,
+        "name": "vegetaline",
+        "proteines": 0.0,
+        "unit": "g"
+    },
+    {
+        "calories": 3.62,
+        "glucides": 0.8,
+        "lipides": 0.01,
+        "name": "vermicelles riz",
+        "proteines": 0.08,
+        "unit": "g"
+    },
+    {
+        "calories": 1.1,
+        "glucides": 0.03,
+        "lipides": 0.0,
+        "name": "vermouth",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 2.0,
+        "glucides": 0.006,
+        "lipides": 0.055,
+        "name": "grison",
+        "proteines": 0.374,
+        "unit": "g"
+    },
+    {
+        "calories": 2.38,
+        "glucides": 0.259,
+        "lipides": 0.135,
+        "name": "viennetta",
+        "proteines": 0.032,
+        "unit": "g"
+    },
+    {
+        "calories": 0.87,
+        "glucides": 0.005,
+        "lipides": 0.0,
+        "name": "vin blanc",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.8,
+        "glucides": 0.025,
+        "lipides": 0.0,
+        "name": "vin blanc cassis",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.84,
+        "glucides": 0.02,
+        "lipides": 0.0,
+        "name": "vin blanc mousseux",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.7,
+        "glucides": 0.015,
+        "lipides": 0.0,
+        "name": "vin rose",
+        "proteines": 0.002,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.9,
+        "glucides": 0.003,
+        "lipides": 0.0,
+        "name": "vin rouge",
+        "proteines": 0.002,
+        "unit": "ml"
+    },
+    {
+        "calories": 0.22,
+        "glucides": 0.002,
+        "lipides": 0.003,
+        "name": "vinaigre",
+        "proteines": 0.002,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.02,
+        "glucides": 0.246,
+        "lipides": 0.02,
+        "name": "vinaigre balsamique",
+        "proteines": 0.008,
+        "unit": "ml"
+    },
+    {
+        "calories": 23.5,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "vodka",
+        "proteines": 0.0,
+        "unit": "cl"
+    },
+    {
+        "calories": 2.5,
+        "glucides": 0.0,
+        "lipides": 0.0,
+        "name": "whisky",
+        "proteines": 0.0,
+        "unit": "ml"
+    },
+    {
+        "calories": 1.15,
+        "glucides": 0.196,
+        "lipides": 0.027000000000000003,
+        "name": "yaourt aux fruits",
+        "proteines": 0.03,
+        "unit": "g"
+    },
+    {
+        "calories": 1.07,
+        "glucides": 0.036000000000000004,
+        "lipides": 0.086,
+        "name": "yaourt a la grecque",
+        "proteines": 0.031,
+        "unit": "g"
+    },
+    {
+        "calories": 0.87,
+        "glucides": 0.038,
+        "lipides": 0.057999999999999996,
+        "name": "yaourt au lait brebis",
+        "proteines": 0.048,
+        "unit": "g"
+    },
+    {
+        "calories": 0.65,
+        "glucides": 0.026000000000000002,
+        "lipides": 0.039,
+        "name": "yaourt au lait entier",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 0.46,
+        "glucides": 0.007,
+        "lipides": 0.027,
+        "name": "yaourt au soja",
+        "proteines": 0.046,
+        "unit": "g"
+    },
+    {
+        "calories": 0.47,
+        "glucides": 0.05,
+        "lipides": 0.01,
+        "name": "yaourt nature",
+        "proteines": 0.04,
+        "unit": "g"
+    },
+    {
+        "calories": 0.74,
+        "glucides": 0.127,
+        "lipides": 0.008,
+        "name": "yaourt nature sucre",
+        "proteines": 0.034,
+        "unit": "g"
+    },
+    {
+        "calories": 0.47,
+        "glucides": 0.16,
+        "lipides": 0.003,
+        "name": "zeste citron",
+        "proteines": 0.015,
+        "unit": "g"
+    }
+]

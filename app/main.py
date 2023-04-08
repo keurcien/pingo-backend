@@ -3,11 +3,13 @@ from tortoise.contrib.fastapi import register_tortoise
 from fastapi.middleware.cors import CORSMiddleware
 from .recipes import router as recipes_router
 from .scraper import router as scraper_router
+from .nutrition import router as nutrition_router
 from . import DB_CONFIG
 
 app = FastAPI()
 app.include_router(recipes_router)
 app.include_router(scraper_router)
+app.include_router(nutrition_router)
 
 app.add_middleware(
     CORSMiddleware,
