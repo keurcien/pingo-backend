@@ -19,12 +19,16 @@ def get_storage_bucket():
 router = APIRouter(
     prefix="/user/recipes",
     tags=["recipes"],
-    dependencies=[Depends(get_current_user)]
 )
 
 @router.get("/")
 async def get_user_recipes(current_user: User = Depends(get_current_user)):
     return await Recipe_Pydantic.from_queryset(Recipe.filter(user=current_user).order_by("-id"))
+
+@router.get("/public/{recipe_id}")
+async def get_recipe(recipe_id: int):
+    return await Recipe.get(id=recipe_id)
+
 
 @router.delete("/", status_code=204)
 async def delete_recipe(
@@ -35,8 +39,10 @@ async def delete_recipe(
     recipe_ = await Recipe.get(id=recipe.id, user=current_user)
     
     if recipe_.image:
-        bucket.blob(recipe_.image).delete()  
-    
+        try:
+            bucket.blob(recipe_.image).delete()  
+        except:
+            print("Could not find image on remote storage. Skipping...")
     await recipe_.delete()
 
 @router.post("/")
@@ -60,7 +66,10 @@ async def update_recipe(
     if recipe.image:
         
         if recipe_.image:
-            bucket.blob(recipe_.image).delete()    
+            try:
+                bucket.blob(recipe_.image).delete()    
+            except:
+                print("Could not find image on remote storage. Skipping...")
 
         image_str, file_extension = decode_image(recipe.image)
 
