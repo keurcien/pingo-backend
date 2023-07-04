@@ -23,7 +23,7 @@ router = APIRouter(
 
 @router.get("/")
 async def get_user_recipes(current_user: User = Depends(get_current_user)):
-    return await Recipe_Pydantic.from_queryset(Recipe.filter(user=current_user).order_by("-id"))
+    return await Recipe_Pydantic.from_queryset(Recipe.filter(user=current_user).order_by("-created_at"))
 
 @router.get("/public/{recipe_id}")
 async def get_recipe(recipe_id: int):
@@ -63,7 +63,7 @@ async def update_recipe(
     else:
         recipe_ = await Recipe.create(**recipe.dict(exclude={"id", "image"}), user=current_user)
 
-    if recipe.image:
+    if recipe.image and ";base64," in recipe.image:
         
         if recipe_.image:
             try:
